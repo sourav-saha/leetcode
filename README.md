@@ -7,3 +7,4 @@ Popular / important leetcode problems (not all included):
 4. https://leetcode.com/problems/subsets-ii/
 5. https://leetcode.com/problems/subsets/
 6. https://leetcode.com/problems/sort-colors/ 
+7. https://leetcode.com/problems/largest-rectangle-in-histogram/
