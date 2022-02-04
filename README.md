@@ -8,3 +8,4 @@ Popular / important leetcode problems (not all included):
 5. https://leetcode.com/problems/subsets/
 6. https://leetcode.com/problems/sort-colors/ 
 7. https://leetcode.com/problems/largest-rectangle-in-histogram/
+8. https://leetcode.com/problems/number-of-visible-people-in-a-queue/
