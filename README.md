@@ -11,3 +11,4 @@ Popular / important leetcode problems (not all included):
 8. https://leetcode.com/problems/number-of-visible-people-in-a-queue/
 9. https://leetcode.com/problems/longest-substring-without-repeating-characters/
 10. https://leetcode.com/problems/max-consecutive-ones-iii/
+11. https://leetcode.com/problems/contiguous-array/
